@@ -3,16 +3,16 @@
 	    
     <category>
         <pattern>HEY</pattern>
-        <template><delay>1</delay>Hello! My name is Jambo! I am a Career Helper. What is your name? </template>
+        <template><delay>1</delay>Hello! My name is Jambo! I am a Career Helper. What is your name? (i.e. My name is ...)</template>
     </category>
     
     <category>
         <pattern>HELLO</pattern>
-        <template><delay>1</delay>Hello! My name is Jambo! I am a Career Helper. What is your name? </template>
+        <template><delay>1</delay>Hello! My name is Jambo! I am a Career Helper. What is your name? (i.e. My name is ...)</template>
     </category>
     
     <category>
         <pattern>HI</pattern>
-        <template><delay>1</delay>Hello! My name is Jambo! I am a Career Helper. What is your name? </template>
+        <template><delay>1</delay>Hello! My name is Jambo! I am a Career Helper. What is your name? (i.e. My name is ...)</template>
     </category>
 </aiml>
