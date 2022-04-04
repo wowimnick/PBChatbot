@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	    
+    <category>
+        <pattern>HEY</pattern>
+        <template><delay>1</delay>Hello! My name is Jambo! I am a Career Helper. What is your name? </template>
+    </category>
+    
+    <category>
+        <pattern>HELLO</pattern>
+        <template><delay>1</delay>Hello! My name is Jambo! I am a Career Helper. What is your name? </template>
+    </category>
+    
+    <category>
+        <pattern>HI</pattern>
+        <template><delay>1</delay>Hello! My name is Jambo! I am a Career Helper. What is your name? </template>
+    </category>
+</aiml>
